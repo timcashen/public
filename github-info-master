@@ -1,4 +1,4 @@
-https://github.com/timcashen/public.git
+https://github.com/timcashen/sage-work.git
 Use for placing public files on github.
 ============================================================================
 https://stackoverflow.com/questions/10573957/pushing-from-local-repository-to-github-hosted-remote#10573992
@@ -26,7 +26,7 @@ git push
 when you want to update the remote repository in the future.
 ==================================================================================
 First: you need to create the repo on github
-Second: git remote add origin https://github.com/timcashen/public.git
+Second: git remote add origin https://github.com/timcashen/sage-work.git
 Third: git pull origin master
 Fourth: git push origin master
 
