@@ -1,3 +1,4 @@
+# shit
 def tcbin(n):
     """ Binomials """
     l = []
