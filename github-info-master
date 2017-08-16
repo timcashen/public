@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 https://github.com/timcashen/public.git
+=======
+https://github.com/timcashen/sage-work.git
+>>>>>>> 4818e54bf6dcf894f0f9612c7592078109a9a16b
 Use for placing public files on github.
 ============================================================================
 https://stackoverflow.com/questions/10573957/pushing-from-local-repository-to-github-hosted-remote#10573992
@@ -26,7 +30,11 @@ git push
 when you want to update the remote repository in the future.
 ==================================================================================
 First: you need to create the repo on github
+<<<<<<< HEAD
 Second: git remote add origin https://github.com/timcashen/public.git
+=======
+Second: git remote add origin https://github.com/timcashen/sage-work.git
+>>>>>>> 4818e54bf6dcf894f0f9612c7592078109a9a16b
 Third: git pull origin master
 Fourth: git push origin master
 
@@ -35,5 +43,8 @@ remote add
 git pull
 git push
 
+<<<<<<< HEAD
 xJz3bMakpY1pX4ce8ERY
+=======
+>>>>>>> 4818e54bf6dcf894f0f9612c7592078109a9a16b
 
